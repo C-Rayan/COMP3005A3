@@ -44,3 +44,6 @@ There is 5 different inputs:
       - Returns a notification on whether it was a success or not
   - Press 5 to quit
 
+**VIDEO DEMONSTRATION:**
+https://www.youtube.com/watch?v=kV_Xoqu9cE4
+
