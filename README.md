@@ -36,9 +36,11 @@ There is 5 different inputs:
   - Press 2 to add a student:
       - This method starts by asking for a first and last name, which should not contain any spaces and should be at least 2 characters long
       - It then asks for the email, which has to be unique from any emails currently in the database
-      - Finally, asks for the date, leave empty for a NULL date.
+      - Finally, asks for the date, write "null" for a NULL date.
   - Press 3 to delete a student using their StudentID
+      - Returns a notification on whether it was a success or not
   - Press 4 to update a student's email using their StudentID:
       - New email has to be unique inside of the database
+      - Returns a notification on whether it was a success or not
   - Press 5 to quit
 
