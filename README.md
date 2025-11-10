@@ -45,5 +45,4 @@ There is 5 different inputs:
   - Press 5 to quit
 
 **VIDEO DEMONSTRATION:**
-https://www.youtube.com/watch?v=kV_Xoqu9cE4
-
+https://www.youtube.com/watch?v=2pmpXAwCH9s
