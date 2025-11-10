@@ -9,10 +9,10 @@ Implementation of database management system interaction with application using 
 **Steps needed to use the application:**
    1. Within the code, there is a function called connect(), which opens a connection to postgres using JDBC
    2. You need to update the user and pass variable to your own username on Postgres (Viewable in pgAdmin)
-   3. You need to create a new database (Using pgAdmin), call it Assignment3 for simplicity (if you call it something else, refer to step 4)
+   3. You need to create a new database (Using pgAdmin), call it Assignment3 for simplicity (if you call it something else, refer to step 6)
    4. Copy the database creation script in pgAdmin using the QueryTool for your newly created database.
-   5. You can now move to the next step, which is running the application
-   6. If you called the database something else, you need to change the 'Assignment3' portioon of the string URL variable in the connect() function (within the source code), to the new database name. 
+   5. You can now move to the next part, which is running the application
+   6. If you called the database something else, you need to change the 'Assignment3' portion of the string URL variable in the connect() function (within the source code), to the new database name. 
 
 **How to run the application:**
 
